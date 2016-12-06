@@ -1,4 +1,4 @@
-load('statespace');
+load('statespace_vals');
 Co = ctrb(sys_ss);
 Ctlbility = rank(Co);
 if (Ctlbility > rankA)

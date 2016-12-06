@@ -1,4 +1,4 @@
-load('statespace');
+load('statespace_vals');
 Oo = obsv(sys_ss);
 Obsvbility = rank(Oo);
 if (Obsvbility > rankA)
