@@ -1,0 +1,21 @@
+\contentsline {section}{\numberline {1}Problem Statement}{2}
+\contentsline {section}{\numberline {2}Mathematical Models}{2}
+\contentsline {subsection}{\numberline {2.1}DC Motor}{2}
+\contentsline {subsection}{\numberline {2.2}Non-Linear Inverted Pendulum Model}{3}
+\contentsline {subsection}{\numberline {2.3}Linearized Inverted Pendulum Model}{4}
+\contentsline {subsection}{\numberline {2.4}State Space Model}{4}
+\contentsline {section}{\numberline {3}Open-Loop Analysis}{6}
+\contentsline {subsection}{\numberline {3.1}Transfer Functions}{6}
+\contentsline {subsection}{\numberline {3.2}Constant Values}{7}
+\contentsline {subsection}{\numberline {3.3}Stability, Poles, and Zeros}{7}
+\contentsline {subsection}{\numberline {3.4}Equilibrium Points}{8}
+\contentsline {subsection}{\numberline {3.5}Controllability}{8}
+\contentsline {subsection}{\numberline {3.6}Observability}{9}
+\contentsline {section}{\numberline {4}Linear Controllers}{9}
+\contentsline {subsection}{\numberline {4.1}Pole-Placement}{10}
+\contentsline {subsection}{\numberline {4.2}PID Controller}{12}
+\contentsline {subsection}{\numberline {4.3}LQR Controller}{13}
+\contentsline {subsection}{\numberline {4.4}Discussion of Results}{16}
+\contentsline {subsection}{\numberline {4.5}Stabilization Neighborhood}{16}
+\contentsline {section}{\numberline {5}Conclusion}{16}
+\contentsline {section}{\numberline {6}Works Cited}{18}
