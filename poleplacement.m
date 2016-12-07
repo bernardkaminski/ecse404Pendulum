@@ -1,17 +1,5 @@
-%{
-    @file oneDOF.m
-    @author Benjamin Brown (bbrown1867@gmail.com)
-    @author Luke Soldano (lsoldano93@gmail.com)
-    @date December 7th, 2014
-    @brief One degree of freedom controller for inverted pendulum
-%}
-function [K, poleH_1, poleT, H_1, T] = oneDOF()
-%@param None
-%@retval K: The gain design parameter chosen
-%@retval poleH_1: Poles of the open loop TF
-%@retval poleT: Poles of the closed loop TF
-%@retval H_1: Open loop TF
-%@retval T: Closed loop TF
+
+function [K, poleH_1, poleT, H_1, T] = poleplacement()
 
 %Load assumed set of values
 load('const_val.mat');
